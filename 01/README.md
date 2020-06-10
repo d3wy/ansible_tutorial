@@ -25,7 +25,7 @@ Adhoc commands using an inventory
 
     ansible -i inventory tom -m ping
 
-    ansiible -i inventory tom -m setup
+    ansible -i inventory tom -m setup
 
 Targetting a group
 
